@@ -81,6 +81,7 @@ endmodule
  Developed by: RegisterNumber:212223040150 
  
 **Logic symbol & Truthtable**
+![image](https://github.com/user-attachments/assets/6aa4c3d1-38db-4783-9408-11a9a82bfc65)
 
 
 **RTL realization Output:**
@@ -88,8 +89,9 @@ endmodule
 ![DE PROJECT 1](https://github.com/user-attachments/assets/738b6bf4-8b88-4fbb-b7ac-2f63cad16db2)
 
 **RTL timing waveform**
+![DE 1 OUTPUT](https://github.com/user-attachments/assets/5f5ffe53-a18a-4ddd-8537-abc8e2cbf02a)
 
-![DE PROJECT 1](https://github.com/user-attachments/assets/0c901c5b-87b9-4394-b9bb-fdc35916de78)
+
 
 **Result:
 The  truth table of logic gates are verified.
