@@ -81,7 +81,8 @@ endmodule
  Developed by: RegisterNumber:212223040150 
  
 **Logic symbol & Truthtable**
-![image](https://github.com/user-attachments/assets/6aa4c3d1-38db-4783-9408-11a9a82bfc65)
+![Screenshot 2024-10-16 102900](https://github.com/user-attachments/assets/daefae31-5224-47dd-a045-f2e45829d40a)
+
 
 
 **RTL realization Output:**
