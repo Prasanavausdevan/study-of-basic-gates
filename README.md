@@ -85,11 +85,11 @@ endmodule
 
 
 
-**RTL realization Output:**
+**RTL**
 
 ![DE PROJECT 1](https://github.com/user-attachments/assets/738b6bf4-8b88-4fbb-b7ac-2f63cad16db2)
 
-**RTL timing waveform**
+** Timing waveform**
 ![DE 1 OUTPUT](https://github.com/user-attachments/assets/5f5ffe53-a18a-4ddd-8537-abc8e2cbf02a)
 
 
